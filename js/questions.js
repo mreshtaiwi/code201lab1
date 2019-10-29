@@ -8,7 +8,7 @@ var question4 = prompt('Where do you want to travel?');
 console.log('you love to travel to '+ question4);
 
 
-document.getElementById('q1').innerHTML = 'Could you please give us your name? ' + question1 ;
-document.getElementById('q2').innerHTML = 'Where do you live? ' + question2 ;
-document.getElementById('q3').innerHTML = 'What is your fav meal? ' + question3 ;
-document.getElementById('q4').innerHTML = 'Where do you want to travel? ' + question4 ;
+document.getElementById('q1').innerHTML = 'Could you please give us your name? ' + question1;
+document.getElementById('q2').innerHTML = 'Where do you live? '+  question2;
+document.getElementById('q3').innerHTML = 'What is your fav meal? ' + question3;
+document.getElementById('q4').innerHTML = 'Where do you want to travel? ' + question4;
